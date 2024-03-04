@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Die Hard",
+    "releaseYear": 1998,
+    "duration": 90
+  },
+  {
+    "id": 2,
+    "name": "Expandable",
+    "releaseYear": 2018,
+    "duration": 80
+  },
+  {
+    "id": 4,
+    "name": "Top Gun",
+    "releaseYear": 1996,
+    "duration": 120
+  },
+  {
+    "id": 5,
+    "name": "Top Gun Maverick",
+    "releaseYear": 2021,
+    "duration": 120
+  },
+  {
+    "id": 6,
+    "name": "Salaar - The Cease Fire",
+    "releaseYear": 2023,
+    "duration": 170
+  },
+  {
+    "id": 7,
+    "name": "Salaar - The conclusion Part 2",
+    "releaseYear": 2024,
+    "duration": 170
+  }
+]
